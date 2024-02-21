@@ -1,0 +1,6 @@
+[submodule "front-amor-saude"]
+	path = front-amor-saude
+	url = https://github.com/jaidsondantas/front-amor-saude.git
+[submodule "api-amor-saude"]
+	path = api-amor-saude
+	url = https://github.com/jaidsondantas/api-amor-saude.git
